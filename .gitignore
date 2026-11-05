@@ -1,0 +1,11 @@
+.sass-cache
+
+# Beads database (local task tracking)
+.beads/
+# Wire notes (local task docs)
+wire_notes/
+# Wire search index (local)
+.wire/
+
+# emacs
+*.*~
